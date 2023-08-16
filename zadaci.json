@@ -1,0 +1,9 @@
+[
+  {
+    "naziv": "SUCCESS",
+    "deskripcija": "Успјело је",
+    "jezik": "C",
+    "kod": "#include <stdio.h>;\nint main(){\n  printf(\"123\");\n  return 0;\n}"
+  },
+  // ... i odje ostale stetocine
+]
