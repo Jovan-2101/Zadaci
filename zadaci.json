@@ -5,5 +5,10 @@
     "jezik": "C",
     "kod": "#include <stdio.h>;\nint main(){\n  printf(\"123\");\n  return 0;\n}"
   },
-  // ... i odje ostale stetocine
+  {
+    "naziv": "Another Task",
+    "deskripcija": "Description of another task",
+    "jezik": "JavaScript",
+    "kod": "console.log('Hello, world!');"
+  }
 ]
